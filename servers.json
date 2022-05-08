@@ -2,7 +2,8 @@
 	"servers": [
 		{
 			"name": "SD Tryout",
-			"permission": "Group:SD:1-255"
+			"code": "D5oYNDyiL0Bvn0I7iJq7xYtkrMCiYdVCmTKuC9ndIsKDlG3nAQAAAA2",
+			"permission": ["Group:SD:1-255"]
 		}
 	]
 }
