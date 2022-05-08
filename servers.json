@@ -8,6 +8,27 @@
 			]
 		},
 		{
+			"name": "MTF",
+			"code": "2SaJT2A_YVG_uZVIfh04GGLJGaY1r3pPt185-YJkBLuDlG3nAQAAAA2",
+			"permission": [
+				"Group:MTF:1-255"
+			]
+		},
+		{
+			"name": "MTF Training #1",
+			"code": "3PesmZHspHXd4mthhIX5ba4Mm-Gf1OtMkfSSnR2GnBiDlG3nAQAAAA2",
+			"permission": [
+				"Group:MTF:1-255"
+			]
+		},
+		{
+			"name": "MTF Training #2",
+			"code": "MOwidIO93eZaHMy92x8wXEfVWzvpQYhMg-T6ALW31RGDlG3nAQAAAA2",
+			"permission": [
+				"Group:MTF:1-255"
+			]
+		},
+		{
 			"name": "SD",
 			"code": "xpiA_bpDzEYJm283xeQbdIXaO39uS2JGiflsbxGDeYmDlG3nAQAAAA2",
 			"permission": [
@@ -20,6 +41,7 @@
 			"permission": [
 				"Group:SD:1-255"
 			]
-		}
+		},
+		
 	]
 }
