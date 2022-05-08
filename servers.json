@@ -1,10 +1,10 @@
 {
 	"servers": [
 		{
-			"name": "SD Event #1",
+			"name": "Event #1",
 			"code": "pg342Il-3FwUMY8A9UXClka4bSFDz7ZFoeYyUBMM94eDlG3nAQAAAA2",
 			"permission": [
-				"Group:SD:1-255"
+				"Group:Main:1-255"
 			]
 		},
 		{
