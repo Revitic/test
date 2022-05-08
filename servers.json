@@ -1,6 +1,20 @@
 {
 	"servers": [
 		{
+			"name": "SD Event #1",
+			"code": "pg342Il-3FwUMY8A9UXClka4bSFDz7ZFoeYyUBMM94eDlG3nAQAAAA2",
+			"permission": [
+				"Group:SD:1-255"
+			]
+		},
+		{
+			"name": "SD",
+			"code": "xpiA_bpDzEYJm283xeQbdIXaO39uS2JGiflsbxGDeYmDlG3nAQAAAA2",
+			"permission": [
+				"Group:SD:1-255"
+			]
+		},
+		{
 			"name": "SD Tryout",
 			"code": "D5oYNDyiL0Bvn0I7iJq7xYtkrMCiYdVCmTKuC9ndIsKDlG3nAQAAAA2",
 			"permission": [
