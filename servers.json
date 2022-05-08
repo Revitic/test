@@ -3,7 +3,9 @@
 		{
 			"name": "SD Tryout",
 			"code": "D5oYNDyiL0Bvn0I7iJq7xYtkrMCiYdVCmTKuC9ndIsKDlG3nAQAAAA2",
-			"permission": ["Group:SD:1-255"]
+			"permission": [
+				"Group:SD:1-255"
+			]
 		}
 	]
 }
