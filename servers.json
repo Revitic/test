@@ -1,3 +1,8 @@
 {
-	"servers": []
+	"servers": [
+		{
+			"name": "SD Tryout",
+			"permission": "Group:SD:1-255"
+		}
+	]
 }
